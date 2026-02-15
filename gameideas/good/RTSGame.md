@@ -22,14 +22,14 @@ Es ist also ein Weltkrieg zwischen den 5 Reichen ausgebrochen der sich noch viel
 # Gameplay:
 Vollständig erst, wenn ich wirklich selber die games gezockt hab!
 
-Missionen:
+## Missionen:
 1. Es gibt mehrere Kampanien in denen man jede Seite des Kriegs erleben kann.
 2. Missionen sind "geskriptet" und müssen in Reihenfolge gewältigt werden.
 3. Man hat mehrere Missionspunkte, die man abhaken muss. z.B. Nehme diesen Punkt ein, halte diese Linie, beschütze ..., zerstöre ..., etc.
 4. Jede Mission hat ein Zeitlimit oder ein Schadenbegrenzungslimit, oder ein Nebenmissionserfüllungslimit. Diese limits muss man einhalten, damit man am Ende jeder Mission bis zu 3 Sterne bekommen kann.
 
 
-Im Spiel:
+## Im Spiel:
 1. Man kann seine Soldaten einzeln, oder auch mehrere als Trupp Auswählen.
 2. Diese kann man allerlei Formationen einnehmen lassen, das geht mit der Maus, je nach Mausziehung. also shift + linksklick
 3. Seinen Truppen kann man allerlei befehlen, z.B. Formation, Drehen, Bewegen, hinlegen, in Gebäude gehen, Granaten werfen, Mit einem Drachen Bomben fallen lassen, in Schützengräbern gehen, Turrets bedienen, etc. Dies geht mittels des Aktionspanels, wobei man anmerken muss, dass bewegen standardmäßig als linksklick gilt und rechtsklick als die hauptaktion der jeweiligen Klasse/Truppe/Soldat/etc ist.
@@ -46,7 +46,7 @@ Im Spiel:
 # Inhalt:
 
 
-Zaubersystem (nur zur Info):
+## Zaubersystem (nur zur Info):
 Blockartig, man kann Attribute zusammen setzen und neue Zauber erstellen.
 z.B.
 Feuerball:
@@ -54,43 +54,43 @@ volumen * Summe der attribute(geschwindigkeit+schwerelos*dauernd(unendlich lange
 5l* (1m/s * 1,3 * 1,25) = 8,125 Level    (das sind nur Beispiel Werte) (1 Level = 1 Liter)
 
 
-Soldaten:
-Nah- und Fernkampf Zauberer
+## Soldaten:
+#### Nah- und Fernkampf Zauberer
 (haben Zauberstab, macht zaubern günstiger, ca. -10% ???)
 Diese haben allerlei Zauber, welche man als Gruppierungen im Aktionsmenü auswählen kann um Platz zu sparen.
 Zauberer sind jedoch seltener, da sie erstmal viel Kraft haben müssen.
-Beschwörer
+#### Beschwörer
 Sie sind eine spezielle Art von Zauberer, welche eine Spezielle Art von Zauber, Beschwörung.
 Diese können Wesen aus Kraft erschaffen, welche manchmal als wandelnde Bombe, anders Mal als Kanonenfutter (z.B. Feinde ablenken, auskundschaften).
-Heiler
+#### Heiler
 Spezielle Art von Zauberer die Heilmagie wirken können, welche andere Soldaten heilen kann. Diese müssen einfach in einem engen Bereich um den Heiler stehen. Diese verbrauchen viel Kraft und können daher nicht oft eingesetzt werden, aka sie haben nen langen Cooldown.
-Nahkämpfer
-Schwertkämpfer
+#### Nahkämpfer
+###### Schwertkämpfer
 Diese haben meißt mit schärfe verZauberte Schwerter oder selten auch mit Projektilzaubern verzauberte, welche Projektile aus der Kraft(Mana) des Benutzers erschaffen, sind aber schwächer als die der Schützen.
-tc schreib ich noch hin
-Boxer
+###### etc schreib ich noch hin
+###### Boxer
 Diese benutzen selbstverzauberungen, damit sie schneller, stärker und resistenter sind. Sie verursachen viel schaden, sich jedoch sehr verwundbar.
-Verteidiger
+#### Verteidiger
 Diese haben Schilde, welche mit härtezaubern versehen sind, damit sie mehr aushalten. Sie haben auch Speere mit denen sie noch besser verteidigen können.
-Fernkämpfer:
-Bogenschützen
-Scharfschützen
- Schützen
+#### Fernkämpfer:
+###### Bogenschützen
+###### Scharfschützen
+###### Schützen
 Dies sind die standardeinheiten im Fernkampfbereich. Sie benutzen normale Schusswaffen.
-Schnellschützen
+###### Schnellschützen
 Benutzen eine schnellschusswaffe.
 Allerlei Bögen und modere Schusswaffen, welche im Prinzip einfach vorverzauberte Projektile lagert und abfeuert. Der Trigger löst einen Zauberkreis aus, welcher die Zauber der Projektile auslöst, was wiederrum dafür sorgt, dass diese mit wahnsinnsgeschwindigkeit nach vorne schießt. Die Schusswaffen sind lediglich dazu da, damit man die Kugeln nicht noch mit Homing verzaubern muss, was sehr teuer wäre.
-Fallensteller
+#### Fallensteller
 Sie stellen allerlei Zauberkreisfallen auf, sitzen an nicht leicht sichtbaren Orten und warten bis jemand in die fallen tritt und dieser stirbt oder ihnen zu nahe kommt, wobei sie dann den Feind abstechen.
-Scheiner
+#### Scheiner
 Erschafft Trug- und Scheinbilder um Feinde zu verwirren und dessen Recourcen zu verbrauchen.
-Granatenwerfer
+#### Granatenwerfer
 Er wirft explodierende Graneten von einer sicheren Entfernung. Besonders gerne in Schützengräbern. Da Granaten jedoch sehr teuer sind, wird der Granatenwerfer nicht oft eingesetzt.
-Panzerabwehrschützen
+#### Panzerabwehrschützen
 Dieser hat einen Raketenwerfer, welcher sogar Panzer zerstört. Er hat auch eine Pistole.
-Panzerfahrer:
+#### Panzerfahrer:
 Stahlkutschen die mittels Verzauberung selber fahren, sie haben anstatt Fenster ein Angriffssehrohr. An den 2 langen Seiten befinden sich 2 überdimensionale Schusswaffen in Form eines Wasserrohrs. Diese feuern Kugeln die extra stark Verzaubert sind und manchmal sogar einen Explosionszauber beinhalten.
-Drachenbomber:
+#### Drachenbomber:
 Mehrere ausgebildete Drachenflieger die verschiedenes auf feindliche Truppen hinabwerfen, z.B. Thea x Federn, flüssiges Metal, Bomben, Pfeilhagel, etc.
 Die Drachen sind mit einem Härtezauber belegt worden, dadurch werden sie resistenter gegen allerlei angriffe.
 
@@ -99,20 +99,20 @@ Die Drachen sind mit einem Härtezauber belegt worden, dadurch werden sie resist
 # Steuerung:
 
 
-Kamera und Umsehen:
+## Kamera und Umsehen:
 Es gibt 2 Modi.
-Dreiviertelansicht
+#### Dreiviertelansicht
 (isometrisch, aber mit der tiefe, also einfach ne normale kamera die von schräg oben links schaut)
 Man drücke die mittlere Maustaste und ziehe die Maus über den Bildschirm um die Kamera zu  bewegen. Alternativ kann man auch WASD zum bewegen benutzen.
 Man scrolle zum ändern des Kamera Zooms.
-Frei bewegbare- und freirotierbare Kamera
+#### Frei bewegbare- und freirotierbare Kamera
 (bissl wie in Blender oder Total War)
 Man scrolle zum ändern des Kamera Zooms.
 WASD zum bewegen der Kamera.
 Mittlere Maustaste drücken zum rotieren der Kamera.
 
 
-Befehlen
+## Befehlen
 Standardmäßig kann man die linke Maustaste zum Bewegen und die rechte Maustaste zum Befehlen der standardaktion des jeweiligen Solaten.
 
 Mit der linkenmaustaste kann man im Aktionsmenü eine Aktion auswählen und diese mit der selben Taste aktivieren. Zum abwählen der Aktion, drückt man die rechte Maustaste.
